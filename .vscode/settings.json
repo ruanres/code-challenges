@@ -1,0 +1,13 @@
+{
+  "workbench.colorCustomizations": {
+    "tab.activeBorderTop": "#FFD700",
+    "tab.activeBorder": "#FFD700",
+    "tab.activeForeground": "#FFD700",
+    "activityBar.background": "#5F0A11",
+    "titleBar.activeBackground": "#850E18",
+    "titleBar.activeForeground": "#FFFBFB"
+  },
+  "cSpell.words": [
+    "nums"
+  ]
+}
