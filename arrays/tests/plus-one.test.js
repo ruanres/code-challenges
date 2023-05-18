@@ -1,4 +1,4 @@
-import plusOne from "./plus-one";
+import plusOne from "../plus-one";
 
 describe('Plus One', () => { 
   it('should get the value 124', () => {

@@ -1,4 +1,4 @@
-import pivotIndex from "./find-pivot-index";
+import pivotIndex from "../find-pivot-index";
 
 describe('Find Pivot', () => { 
   it('should get the pivot 3', () => {

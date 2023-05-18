@@ -1,4 +1,4 @@
-import dominantIndex from "./dominant-index";
+import dominantIndex from "../dominant-index";
 
 describe('Dominant index', () => { 
   it('should get index 1', () => {

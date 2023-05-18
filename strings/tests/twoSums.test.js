@@ -1,4 +1,4 @@
-import twoSum from "./twoSums";
+import twoSum from "../twoSums";
 
 describe('twoSum', () => { 
   it('should ', () => {
